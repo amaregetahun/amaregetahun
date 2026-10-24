@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaregetahun&label=Profile%20views&color=0e75b6&style=flat" alt="amaregetahun" /> </p>
 
-- 🔭 I’m currently working on **Eth Life and General Insurance S.C**
+- 🔭 I’m currently working on **Ethio Life and General Insurance S.C**
 
-- 🌱 I’m currently learning **Data science**
+- 🌱 I’m currently learning **Msc. Data science**
+
+- 👯 I’m looking to collaborate on **Risk Asset Underwriting**
 
 - 📫 How to reach me **amare.gse-6010-19@aau.edu.et**
 
